@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3083E7</color>
+    <color name="colorPrimaryDark">#3083E7</color>
+    <color name="colorAccent">#3083E7</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="separator">#D7D8D9</color>
+    <color name="description_text">#818C99</color>
+    <color name="btn_background">#3E81D2</color>
+    <color name="view_item_background">#F5F5F5</color>
+    <color name="view_item_corner">#14000000</color>
+    <color name="view_item_subtitle_text">#6D7885</color>
+    <color name="view_item_corner_for_target">#D5D6D8</color>
+    <color name="view_item_target_background">#F2F3F5</color>
+    <color name="view_item_target_text">#818C99</color>
+    <color name="radio_btn_color">#3083E7</color>
+    <color name="radio_btn_not_activate_color">#B7C1CD</color>
+    <color name="collection_list_background">#B7C1CD</color>
+    <color name="btn_color_text">#3F8AE0</color>
+</resources>
